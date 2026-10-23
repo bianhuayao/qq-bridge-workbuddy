@@ -1,0 +1,6 @@
+# 本仓库是给 qq-bridge 用的扩展包（安装器会复制文件到目标 qq-bridge），
+# 这些是本地运行时/构建产物，不入库。
+node_modules/
+*.log
+state/
+.DS_Store
